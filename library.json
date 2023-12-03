@@ -1,0 +1,22 @@
+{
+    "name": "CRC",
+    "keywords": "CRC",
+    "description": "CRC",
+    "homepage": "https://github.com/g3rb3n/CRC",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/g3rb3n/CRC.git"
+    },
+    "version": "1.0.0",
+    "authors": {
+      "name": "Gerben van Eerten",
+      "url": "https://gerbenvaneerten.nl"
+    },
+    "exclude": [
+    ],
+    "frameworks": "*",
+    "platforms": "*",
+    "dependencies":{
+    }
+  }
+  
